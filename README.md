@@ -1,4 +1,4 @@
-# pulsarstar_knn
+# Pulsar Star Prediction
 
 When supermassive stars that are about eight times the size of our Sun die, they produce colorful supernovae high in hydrogen and helium, then leave behind either a neutron star or a black hole, if its mass is high enough. A pulsar is a type of neutron star. It is highly magnetized and emits strong radiowaves from both its poles while rotating very fast. On Earth, their emissions are detected as pulses of radiation observed when the beams sweep along the planet’s direction$^{6, 9}$.
 
